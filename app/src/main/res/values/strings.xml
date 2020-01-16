@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CameraX</string>
+
+    <string name="alert_permission_not_granted">Permissions not granted by the user.</string>
+</resources>
